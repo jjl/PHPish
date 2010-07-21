@@ -1,0 +1,2 @@
+package PHPish::String;
+
